@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dhivakar_Love/static/css/main.446b1afa.css",
+    "main.js": "/Dhivakar_Love/static/js/main.1f68d114.js",
+    "static/media/img-5.png": "/Dhivakar_Love/static/media/img-5.23100855c627e3a4b121.png",
+    "static/media/img-6.png": "/Dhivakar_Love/static/media/img-6.63da3ef6cdd93afab399.png",
+    "static/media/img-8.png": "/Dhivakar_Love/static/media/img-8.0966ee4c2784d9aea166.png",
+    "static/media/img-2.png": "/Dhivakar_Love/static/media/img-2.d0c1d23be6fc5618fe91.png",
+    "static/media/img-4.png": "/Dhivakar_Love/static/media/img-4.3f347bb0dcc6e81a0f01.png",
+    "static/media/img-3.png": "/Dhivakar_Love/static/media/img-3.53d60863f0e3f70d3932.png",
+    "static/media/img-7.png": "/Dhivakar_Love/static/media/img-7.9152501b8764e4eb60cc.png",
+    "index.html": "/Dhivakar_Love/index.html",
+    "main.446b1afa.css.map": "/Dhivakar_Love/static/css/main.446b1afa.css.map",
+    "main.1f68d114.js.map": "/Dhivakar_Love/static/js/main.1f68d114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.446b1afa.css",
+    "static/js/main.1f68d114.js"
+  ]
+}
